@@ -1,0 +1,20 @@
+
+
+.header {
+    background-color: red;
+    padding: 15px;
+    align-items: center;
+  }
+  
+  .header .logo {
+    text-align: right;
+    color: white;
+    font-size: 24px;
+  }
+  
+  .header .fa-bars {
+    cursor: pointer;
+    font-size: 20px;
+    
+  }
+  

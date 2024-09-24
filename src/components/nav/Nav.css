@@ -1,0 +1,36 @@
+/* Nav.css */
+
+.nav {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 100vh;
+    background-color: blue;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    z-index: 1000;
+  }
+  
+  .navicons {
+    float: left;
+    text-align: center;
+    margin-top: 120px;
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .navicons li {
+    padding: 15px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .navicons li i {
+    font-size: 20px;
+  }
+  
